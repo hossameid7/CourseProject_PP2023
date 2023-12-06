@@ -25,3 +25,6 @@
     ```bash
     make graph
     ```
+
+5. [Пояснительное видео по запуску проекта](https://youtu.be/ieDmjG9Shzk)
+
